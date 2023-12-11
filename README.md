@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently learning Mangement Science and Engineering in Xi'an Jiaotong Univeristy. Some coding tools are very useful for me to do scientific research, so I'm here!
+
 <!--
 **lmz-dn/lmz-dn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
